@@ -1,5 +1,6 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/A-Cndt/IPSA_Formation_GIT?color=blue&label=Contributors&logo=GitHub)](https://github.com/A-Cndt/IPSA_Formation_GIT/graphs/contributors)
 [![Branchs](https://badgen.net/badge/Branchs/2/blue?icon=github)](https://github.com/A-Cndt/IPSA_Formation_GIT/branches)
+![GitHub repo size](https://img.shields.io/github/repo-size/A-Cndt/IPSA_Formation_GIT?color=blue&label=Repo%20Size&logo=git&logoColor=white)
 
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/A-Cndt/IPSA_Formation_GIT/main?label=Last%20Commit)](https://github.com/A-Cndt/IPSA_Formation_GIT/commit/main)
 [![GitHub issues](https://img.shields.io/github/issues/A-Cndt/IPSA_Formation_GIT?label=Issues)](https://github.com/A-Cndt/IPSA_Formation_GIT/issues)
@@ -9,6 +10,8 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Language&logo=Python&logoColor=white)
 [![GitHub Release Date](https://img.shields.io/github/release-date/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Release%20Date)](https://github.com/A-Cndt/IPSA_Formation_GIT/releases/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Lastest%20Release)](https://github.com/A-Cndt/IPSA_Formation_GIT/tags)
+![GitHub](https://img.shields.io/github/license/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=License)
+
 
 # Introduction à l'usage de Git pour le contrôle de version
 **IPSA 2022 - 2023**
