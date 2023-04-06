@@ -7,6 +7,8 @@
 ![GitHub milestones](https://img.shields.io/github/milestones/open/A-Cndt/IPSA_Formation_GIT?label=Open%20Milestones)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Language&logo=Python&logoColor=white)
+![GitHub Release Date](https://img.shields.io/github/release-date/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Release%20Date)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Lastest%20Release)
 
 # Introduction à l'usage de Git pour le contrôle de version
 **IPSA 2022 - 2023**
