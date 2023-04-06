@@ -1,3 +1,13 @@
+![GitHub contributors](https://img.shields.io/github/contributors/A-Cndt/IPSA_Formation_GIT?color=blue&label=Contributors&logo=GitHub)
+![Branchs](https://badgen.net/badge/Branchs/2/blue?icon=github)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/A-Cndt/IPSA_Formation_GIT/main?label=Last%20Commit)
+![GitHub issues](https://img.shields.io/github/issues/A-Cndt/IPSA_Formation_GIT?label=Issues)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/A-Cndt/IPSA_Formation_GIT?label=Pull%20Requests)
+![GitHub milestones](https://img.shields.io/github/milestones/open/A-Cndt/IPSA_Formation_GIT?label=Open%20Milestones)
+
+![GitHub top language](https://img.shields.io/github/languages/top/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Language&logo=Python&logoColor=white)
+
 # Introduction à l'usage de Git pour le contrôle de version
 **IPSA 2022 - 2023**
 
@@ -69,3 +79,4 @@ port variants git
 ```console
 sudo port install git +bash_completion +credential_osxkeychain +doc
 ```
+
