@@ -4,7 +4,7 @@
 
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/A-Cndt/IPSA_Formation_GIT/main?label=Last%20Commit)](https://github.com/A-Cndt/IPSA_Formation_GIT/commit/main)
 [![GitHub issues](https://img.shields.io/github/issues/A-Cndt/IPSA_Formation_GIT?label=Issues)](https://github.com/A-Cndt/IPSA_Formation_GIT/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/A-Cndt/IPSA_Formation_GIT?label=Pull%20Requests)](https://github.com/A-Cndt/IPSA_Formation_GIT/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/A-Cndt/IPSA_Formation_GIT?label=Pull%20request)](https://github.com/A-Cndt/IPSA_Formation_GIT/pulls)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/A-Cndt/IPSA_Formation_GIT?label=Open%20Milestones)](https://github.com/A-Cndt/IPSA_Formation_GIT/milestones)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Language&logo=Python&logoColor=white)
