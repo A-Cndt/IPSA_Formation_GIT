@@ -7,7 +7,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/A-Cndt/IPSA_Formation_GIT?label=Pull%20request)](https://github.com/A-Cndt/IPSA_Formation_GIT/pulls)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/A-Cndt/IPSA_Formation_GIT?label=Open%20Milestones)](https://github.com/A-Cndt/IPSA_Formation_GIT/milestones)
 
-![GitHub top language](https://img.shields.io/github/languages/top/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Language&logo=Python&logoColor=white)
+![GitHub top language](https://img.shields.io/github/languages/top/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Python&logo=Python&logoColor=white)
 [![GitHub Release Date](https://img.shields.io/github/release-date/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Release%20Date)](https://github.com/A-Cndt/IPSA_Formation_GIT/releases/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=Lastest%20Release)](https://github.com/A-Cndt/IPSA_Formation_GIT/tags)
 ![GitHub](https://img.shields.io/github/license/A-Cndt/IPSA_Formation_GIT?color=blueviolet&label=License)
